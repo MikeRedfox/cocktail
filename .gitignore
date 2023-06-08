@@ -1,0 +1,5 @@
+__pycache__
+coc.bac.py
+.env
+*.json
+prova.py
