@@ -27,3 +27,11 @@ footer{
     position: fixed;
     bottom: 0;
 }
+
+img {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    text-align: center;
+}
